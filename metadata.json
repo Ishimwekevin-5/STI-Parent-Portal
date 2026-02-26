@@ -1,0 +1,5 @@
+{
+  "name": "Parent Portal",
+  "description": "A modern, dark-themed dashboard for parents to track student progress, attendance, and financials.",
+  "requestFramePermissions": []
+}
